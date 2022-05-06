@@ -48,14 +48,15 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
+define('AUTH_KEY',         '@N(|)!F{!{+lrnRZ7FA-E5q@kV1- wsLRSNQ!w-o[ut5Ol<&,_R`                                                                                                             }V^;`=(jVAYp');
+define('SECURE_AUTH_KEY',  ' p/L3EP3ch`rW9D r4|7+`1q3% m~e|!B:EsC+xLDx*db)Z=hI?a                                                                                                             R9B[!)Ra81a-');
+define('LOGGED_IN_KEY',    '!-bUt>~&#W,yh4:X&c|4K|VtzCcqxgoPqf++D=YZ+OWLr.&~+WSx                                                                                                             cLQ[YwL=*8sE');
+define('NONCE_KEY',        '8}Dd)/HWbK9+?`8>tIlL?$0c0oAnvNzLf)faP8,G0B0_`_E]Q5bv                                                                                                             !>PQ4g`/|auM');
+define('AUTH_SALT',        'S|;TO;!r35PQAt7E+e*<w|D#i@:8`-$]18g4%!R>Tb.T=-[KGy3T                                                                                                             zlLF,caF(k`-');
+define('SECURE_AUTH_SALT', 'U 1t}9S#q)65&<|A}#5%fCX=-|,~||W|E-:Kf7|5@l69L:{H$Ml                                                                                                              B)H9L|OeK-}%');
+define('LOGGED_IN_SALT',   '_[d]l&nHM|l9 5s,Bf1hoB*2c5.ZX6wSG5PLQ0U5[}$NSP|hh-:Y                                                                                                             4G9PV[-Vi1^w');
+define('NONCE_SALT',       '_2}Q*zq=+8id=jb }ELu:8Zj`: :NR|.*%si6S+tSuu0/e@^J4[g                                                                                                             ->#qhVT]n0Yt');
+
 
 /**#@-*/
 
