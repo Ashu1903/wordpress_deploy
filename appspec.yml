@@ -15,7 +15,7 @@ hooks:
           timeout: 300
           runas: ubuntu
       AfterInstall:
-        - location: scripts/ch-permission.sh
+        - location: scripts/change-permission.sh
           timeout: 300
           runas: ubuntu
       ApplicationStart:
